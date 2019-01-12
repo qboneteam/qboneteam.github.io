@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blackhole"
+title: "CAFe 2019 invitation"
 date: 2019-01-05
 party: DiHalt 2019 Lite
 place: 2nd
